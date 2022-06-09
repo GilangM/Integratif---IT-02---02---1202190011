@@ -1,3 +1,7 @@
+NAMA  : Gilang Maulana
+NIM   : 1202190011
+
+
 1. Langkah pertama dalam install Laravel adalah masuk Command Prompt. Caranya adalah klik Win+R lalu ketik cmd dan klik **OK**
 
 ![1](https://user-images.githubusercontent.com/26424175/172338215-659b4b98-3172-4e50-be9a-d66dc1e340e0.JPG)
