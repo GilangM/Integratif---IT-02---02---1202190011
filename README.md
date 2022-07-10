@@ -38,3 +38,14 @@
 7. Langkah terakhir lakukan pengecekan RSS apakah sudah berhasil atau belum
 
    ![](asset/7.JPG)
+   
+   **Tahap 3 RSS**
+Berikut ditampilkan halaman RSS yang telah dibuat
+
+Berikut Link RSS yang digunakan :
+
+![3_1](https://user-images.githubusercontent.com/26424175/178131881-8d7e3262-02f7-4b1c-8e25-93b3c3940447.JPG)
+
+1. https://www.antaranews.com/rss/ekonomi
+2. https://feeds.fireside.fm/bibleinayear/rss
+3. https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml
